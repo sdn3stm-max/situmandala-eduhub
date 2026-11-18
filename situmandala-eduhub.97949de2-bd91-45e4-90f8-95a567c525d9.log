@@ -1,0 +1,18 @@
+2026-11-18T04:26:34.275561Z	Cloning repository...
+2026-11-18T04:26:35.152712Z	From https://github.com/sdn3stm-max/situmandala-eduhub
+2026-11-18T04:26:35.153301Z	 * branch            c8a902412372298c18c8bf6d15d7d7a990830c08 -> FETCH_HEAD
+2026-11-18T04:26:35.1536Z	
+2026-11-18T04:26:35.167795Z	HEAD is now at c8a9024 Initial commit
+2026-11-18T04:26:35.168062Z	
+2026-11-18T04:26:35.302592Z	
+2026-11-18T04:26:35.303091Z	Using v2 root directory strategy
+2026-11-18T04:26:35.456045Z	Success: Finished cloning repository files
+2026-11-18T04:26:37.504191Z	Checking for configuration in a Wrangler configuration file (BETA)
+2026-11-18T04:26:37.504873Z	
+2026-11-18T04:26:37.672779Z	No Wrangler configuration file found. Continuing.
+2026-11-18T04:26:37.959486Z	Detected the following tools from environment: 
+2026-11-18T04:26:37.959974Z	Executing user command: /
+2026-11-18T04:26:37.968018Z	/bin/sh: 1: /: Permission denied
+2026-11-18T04:26:37.969651Z	Failed: Error while executing user command. Exited with error code: 126
+2026-11-18T04:26:37.97486Z	Failed: build command exited with code: 1
+2026-11-18T04:26:38.802382Z	Failed: error occurred while running build command
